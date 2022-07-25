@@ -1,0 +1,5 @@
+com/vndat/inventoryservice/InventoryServiceApplication.class
+com/vndat/inventoryservice/service/InventoryService.class
+com/vndat/inventoryservice/model/Inventory.class
+com/vndat/inventoryservice/controller/InventoryController.class
+com/vndat/inventoryservice/repository/InventoryRepository.class

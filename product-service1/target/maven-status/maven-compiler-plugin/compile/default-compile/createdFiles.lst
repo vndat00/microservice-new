@@ -1,0 +1,10 @@
+com/vndat/productservice1/repository/ProductRepository.class
+com/vndat/productservice1/dto/ProductRequest.class
+com/vndat/productservice1/model/Product.class
+com/vndat/productservice1/dto/ProductResponse$ProductResponseBuilder.class
+com/vndat/productservice1/dto/ProductRequest$ProductRequestBuilder.class
+com/vndat/productservice1/service/ProductService.class
+com/vndat/productservice1/ProductService1Application.class
+com/vndat/productservice1/controller/ProductController.class
+com/vndat/productservice1/dto/ProductResponse.class
+com/vndat/productservice1/model/Product$ProductBuilder.class

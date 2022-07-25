@@ -1,0 +1,5 @@
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/inventory-service/src/main/java/com/vndat/inventoryservice/model/Inventory.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/inventory-service/src/main/java/com/vndat/inventoryservice/controller/InventoryController.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/inventory-service/src/main/java/com/vndat/inventoryservice/service/InventoryService.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/inventory-service/src/main/java/com/vndat/inventoryservice/InventoryServiceApplication.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/inventory-service/src/main/java/com/vndat/inventoryservice/repository/InventoryRepository.java

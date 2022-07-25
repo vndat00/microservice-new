@@ -1,0 +1,7 @@
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/repository/ProductRepository.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/model/Product.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/controller/ProductController.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/dto/ProductRequest.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/service/ProductService.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/dto/ProductResponse.java
+/home/vndat00/vndat.workspace/workspace-Spring/ProjectsToLearn/Microservices/microservices-new/product-service1/src/main/java/com/vndat/productservice1/ProductService1Application.java
